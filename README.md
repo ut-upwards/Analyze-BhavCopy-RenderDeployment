@@ -11,7 +11,7 @@
 
 <br>
 
-**Live Project Link** - (http://will_be_comming_soon.com)
+**Live Project Link** - (https://analyze-bhavcopy.onrender.com/)
 
  **Concept Used** - Data Analysis
 
